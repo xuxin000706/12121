@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\ĞìöÎ\desktop\time\main.cpp
+	<iostream>
+
+1557649015 source:c:\users\ĞìöÎ\desktop\time\time.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	"Time.h"
+
+1557649061 c:\users\ĞìöÎ\desktop\time\time.h
+
