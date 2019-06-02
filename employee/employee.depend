@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1559403696 source:c:\users\ĞìöÎ\desktop\employee\employee.cpp
+	<iostream>
+	"Employee.h"
+
+1559467480 c:\users\ĞìöÎ\desktop\employee\employee.h
+	"Date.h"
+
+1559403696 source:c:\users\ĞìöÎ\desktop\employee\commissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"CommissionEmployee.h"
+
+1559404091 c:\users\ĞìöÎ\desktop\employee\commissionemployee.h
+	<string>
+	"Employee.h"
+
+1559403697 source:c:\users\ĞìöÎ\desktop\employee\salariedemployee.cpp
+	<iostream>
+	<stdexcept>
+	"SalariedEmployee.h"
+
+1559404171 c:\users\ĞìöÎ\desktop\employee\salariedemployee.h
+	<string>
+	"Employee.h"
+
+1559404611 source:c:\users\ĞìöÎ\desktop\employee\basepluscommissionemployee.cpp
+	<iostream>
+	<stdexcept>
+	"BasePlusCommissionEmployee.h"
+
+1559404810 c:\users\ĞìöÎ\desktop\employee\basepluscommissionemployee.h
+	<string>
+	"CommissionEmployee.h"
+
+1559405074 source:c:\users\ĞìöÎ\desktop\employee\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"Employee.h"
+	"SalariedEmployee.h"
+	"CommissionEmployee.h"
+	"BasePlusCommissionEmployee.h"
+
+1559467517 c:\users\ĞìöÎ\desktop\employee\date.h
+	<array>
+
