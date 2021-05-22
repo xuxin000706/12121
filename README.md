@@ -233,7 +233,7 @@ You will need to create a settings file with the calibration of your camera. See
 # 9. SLAM and Localization Modes
 You can change between the *SLAM* and *Localization mode* using the GUI of the map viewer.
 
-### SLAM Mode
+### SLAM Mode1
 This is the default mode. The system runs in parallal three threads: Tracking, Local Mapping and Loop Closing. The system localizes the camera, builds new map and tries to close loops.
 
 ### Localization Mode
